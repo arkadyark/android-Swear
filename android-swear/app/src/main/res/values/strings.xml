@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">CensorMe</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_define_keywords">DefineKeywordsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="preset_word_lists">
+        <item>Crutch words</item>
+        <item>Swear words</item>
+        <item>Custom</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/arkadyark/Downloads/pocketsphinx-android-demo-5prealpha-android-studio/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="preset_word_lists">
+        <item>Crutch words</item>
+        <item>Swear words</item>
+        <item>Custom</item>
+    </string-array>
+    <!-- From: file:/Users/arkadyark/Downloads/pocketsphinx-android-demo-5prealpha-android-studio/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/arkadyark/Downloads/pocketsphinx-android-demo-5prealpha-android-studio/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CensorMe</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_define_keywords">DefineKeywordsActivity</string>
+</resources>

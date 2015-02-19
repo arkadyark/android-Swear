@@ -1,0 +1,2 @@
+/Users/arkadyark/Downloads/pocketsphinx-android-demo-5prealpha-android-studio/app/build/intermediates/classes/release
+/Users/arkadyark/Downloads/pocketsphinx-android-demo-5prealpha-android-studio/app/build/intermediates/pre-dexed/release/pocketsphinx-android-0.8-nolib-555cad1b006a05b54a76dcb55a0a6815f3d9e423.jar

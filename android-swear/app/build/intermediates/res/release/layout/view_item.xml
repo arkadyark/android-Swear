@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/textViewWord"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium"  />
+
+    <TextView
+        android:id="@+id/textViewCount"
+        android:layout_width="80dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout><!-- From: file:/Users/arkadyark/Downloads/pocketsphinx-android-demo-5prealpha-android-studio/app/src/main/res/layout/view_item.xml -->
